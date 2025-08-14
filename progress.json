@@ -133,5 +133,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755154413.569316,
+    "completed_at": 1755154413.896732,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
   }
 ]
