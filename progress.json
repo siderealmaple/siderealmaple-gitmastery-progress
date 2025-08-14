@@ -151,5 +151,14 @@
       "Branch main is missing the Git Mastery start commit"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755154933.174562,
+    "completed_at": 1755154933.509805,
+    "comments": [
+      "Branch main is missing the Git Mastery start commit"
+    ],
+    "status": "Error"
   }
 ]
