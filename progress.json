@@ -187,5 +187,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755786372.338011,
+    "completed_at": 1755786372.340508,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
