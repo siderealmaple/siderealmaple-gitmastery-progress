@@ -196,5 +196,14 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755786899.313897,
+    "completed_at": 1755786900.01956,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
   }
 ]
